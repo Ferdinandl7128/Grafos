@@ -1,5 +1,5 @@
 #include<stdio.h>  // Algoritmo feito para uma representação de grafos por matriz de adjacencia.
-#include<stdlib.h> // A matriz de Adj possui limitacoes para representar multiplas aresta paralelas
+#include<stdlib.h>
                    
 typedef struct{
     int vertice;
